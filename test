@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="CBCMontreal.ca" tvg-logo="https://i.imgur.com/thAavMy.png" group-title="Local",CBC Montreal [Geo-blocked]
-https://list.iptvcat.com/my_list/s/f7744674167354d1764708f0afa8f40.m3u8
+https://list.iptvcat.com/my_list/s/f7744674167354d1764708f0afa8f406.m3u8
 #EXTINF:-1 tvg-id="CityTVToronto.ca" tvg-logo="" group-title="Local",CityTV Toronto CFTO-DT (720p)
 http://encodercdn1.frontline.ca/bespin/output/City_Toronto_720p/playlist.m3u8
